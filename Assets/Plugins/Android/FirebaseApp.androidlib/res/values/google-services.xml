@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">gs://incremental-game-agate.appspot.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">210165934928</string>
+  <string name="google_storage_bucket" translatable="false">incremental-game-agate.appspot.com</string>
+  <string name="project_id" translatable="false">incremental-game-agate</string>
+  <string name="google_api_key" translatable="false">AIzaSyBAECs_A6docg-9V6htBiogev_CBHcxpKw</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBAECs_A6docg-9V6htBiogev_CBHcxpKw</string>
+  <string name="google_app_id" translatable="false">1:210165934928:android:66d6d0852666aae4059a55</string>
+  <string name="default_web_client_id" translatable="false">210165934928-770cm9j2eetreftev8lf1t3jk8hsilsi.apps.googleusercontent.com</string>
+</resources>
