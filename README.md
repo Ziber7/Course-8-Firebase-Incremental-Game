@@ -15,5 +15,7 @@ Step 2
 # Firebase's Storage Worked
 ![storage](https://user-images.githubusercontent.com/62097278/135688743-1af7b258-8b7e-4b13-a96d-f636f26a28b5.png)
 
-# Firebase's Analytic Worked
-![analytic](https://user-images.githubusercontent.com/62097278/135689508-11e0732e-86d7-4c67-844f-c44144099c44.png)
+# Firebase's Analytics Worked
+![analytics user](https://user-images.githubusercontent.com/62097278/135699064-86ee70d3-2798-4cdd-947a-6c65c36ba39b.png)
+
+![analytics events](https://user-images.githubusercontent.com/62097278/135699066-216ec571-a2ea-406e-aab7-6c1b71597264.png)
