@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Firebase.Analytics;
 
-public class AnalyticsManager
+public static class AnalyticsManager
 {
     private static void LogEvent (string eventName, params Parameter[] parameters)
     {
